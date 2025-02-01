@@ -97,7 +97,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ---
 
 ## Admin Panels
-
+## By Mudassir Alam
 *Libraries for administrative interfaces.*
 
 * [ajenti](https://github.com/ajenti/ajenti) - The admin panel your servers deserve.
